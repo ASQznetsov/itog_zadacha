@@ -7,3 +7,15 @@ string line = ReadLine();
 str1 = line.Split(' ');
 
 string[] str2 = new string[str1.Length];
+void fillstr2(string[] str1, string[] str2)
+{
+    int count = 0;
+    for (int i = 0; i < str1.Length; i++)
+    {
+    if(str1[i].Length <= 3)
+        {
+        str2[count] = str1[i];
+        count++;
+        }
+    }
+}
