@@ -39,3 +39,6 @@ void PrintArray(string[] array)
     }
     Console.WriteLine();
 }
+fillstr2(str1, str2);
+WriteLine("Результат:");
+PrintArray(str2);
