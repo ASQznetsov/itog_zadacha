@@ -1,0 +1,15 @@
+C:\Users\KDFX Modes\Desktop\geekbrains\itog_zadacha\bin\Debug\net6.0\itog_zadacha.exe
+C:\Users\KDFX Modes\Desktop\geekbrains\itog_zadacha\bin\Debug\net6.0\itog_zadacha.deps.json
+C:\Users\KDFX Modes\Desktop\geekbrains\itog_zadacha\bin\Debug\net6.0\itog_zadacha.runtimeconfig.json
+C:\Users\KDFX Modes\Desktop\geekbrains\itog_zadacha\bin\Debug\net6.0\itog_zadacha.dll
+C:\Users\KDFX Modes\Desktop\geekbrains\itog_zadacha\bin\Debug\net6.0\itog_zadacha.pdb
+C:\Users\KDFX Modes\Desktop\geekbrains\itog_zadacha\obj\Debug\net6.0\itog_zadacha.csproj.AssemblyReference.cache
+C:\Users\KDFX Modes\Desktop\geekbrains\itog_zadacha\obj\Debug\net6.0\itog_zadacha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KDFX Modes\Desktop\geekbrains\itog_zadacha\obj\Debug\net6.0\itog_zadacha.AssemblyInfoInputs.cache
+C:\Users\KDFX Modes\Desktop\geekbrains\itog_zadacha\obj\Debug\net6.0\itog_zadacha.AssemblyInfo.cs
+C:\Users\KDFX Modes\Desktop\geekbrains\itog_zadacha\obj\Debug\net6.0\itog_zadacha.csproj.CoreCompileInputs.cache
+C:\Users\KDFX Modes\Desktop\geekbrains\itog_zadacha\obj\Debug\net6.0\itog_zadacha.dll
+C:\Users\KDFX Modes\Desktop\geekbrains\itog_zadacha\obj\Debug\net6.0\refint\itog_zadacha.dll
+C:\Users\KDFX Modes\Desktop\geekbrains\itog_zadacha\obj\Debug\net6.0\itog_zadacha.pdb
+C:\Users\KDFX Modes\Desktop\geekbrains\itog_zadacha\obj\Debug\net6.0\itog_zadacha.genruntimeconfig.cache
+C:\Users\KDFX Modes\Desktop\geekbrains\itog_zadacha\obj\Debug\net6.0\ref\itog_zadacha.dll
